@@ -15,28 +15,28 @@ import {
 } from "@/lib/structured-data";
 
 export const metadata: Metadata = {
-  applicationName: "Aarab Nishchal",
-  title: "Aarab Nishchal | Full Stack Developer & AI Engineer",
+  applicationName: "Muhammed Abdulhadi",
+  title: "Muhammed Abdulhadi | Full Stack Developer & AI Engineer",
   description:
-    "Aarab Nishchal is a student developer passionate about building modern web apps with Next.js, React, and open-source tools. Explore his projects, experiments, and developer portfolio.",
+    "Muhammed Abdulhadi is a GitHub profile for Muhammed Abdulhadi, featuring projects, experiments, and developer work.",
   authors: [
     {
-      name: "Aarab Nishchal",
-      url: "https://aarab.vercel.app",
+      name: "Muhammed Abdulhadi",
+      url: "https://github.com/mrglasswillbreak",
     },
   ],
-  creator: "Aarab Nishchal",
+  creator: "Muhammed Abdulhadi",
   referrer: "origin-when-cross-origin",
   category: "Portfolio",
   classification: "Software Development",
   keywords: Keywords,
-  metadataBase: new URL("https://aarab.vercel.app"),
+  metadataBase: new URL("https://github.com/mrglasswillbreak"),
 
 
   alternates: {
-    canonical: "https://aarab.vercel.app",
+    canonical: "https://github.com/mrglasswillbreak",
     languages: {
-      "en-US": "https://aarab.vercel.app",
+      "en-US": "https://github.com/mrglasswillbreak",
     },
   },
   robots: {
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
   },
   appleWebApp: {
     capable: true,
-    title: "Aarab Nishchal",
+    title: "Muhammed Abdulhadi",
     statusBarStyle: "black-translucent",
   },
   formatDetection: {
@@ -92,17 +92,17 @@ export const metadata: Metadata = {
   manifest: "/manifest.json",
 
   openGraph: {
-    title: "Aarab Nishchal",
+    title: "Muhammed Abdulhadi",
     description:
-      "Explore Aarab Nishchal’s portfolio featuring projects in React, Next.js, AI, and developer tools. Discover a world of creative web applications and open-source experiments.",
-    url: "https://aarab.vercel.app",
-    siteName: "Aarab Nishchal",
+      "Explore Muhammed Abdulhadi’s portfolio featuring projects in React, Next.js, AI, and developer tools. Discover a world of creative web applications and open-source experiments.",
+    url: "https://github.com/mrglasswillbreak",
+    siteName: "Muhammed Abdulhadi",
     images: [
       {
         url: "/images/thumbnail.png",
         width: 1200,
         height: 630,
-        alt: "Aarab Nishchal Portfolio Thumbnail",
+        alt: "Muhammed Abdulhadi Portfolio Thumbnail",
       },
     ],
     locale: "en_US",
@@ -112,12 +112,12 @@ export const metadata: Metadata = {
 
   twitter: {
     card: "summary_large_image",
-    title: "Aarab Nishchal",
+    title: "Muhammed Abdulhadi",
     description:
-      "Check out Aarab Nishchal’s personal portfolio and dev projects using Next.js, React, Tailwind, and modern web tech.",
+      "Check out Muhammed Abdulhadi’s personal portfolio and dev projects using Next.js, React, Tailwind, and modern web tech.",
     images: ["/images/thumbnail.png"],
-    creator: "@aarab_ii",
-    site: "@aarab_ii",
+    creator: "@mrglaswontbreak",
+    site: "@mrglaswontbreak",
   },
 };
 

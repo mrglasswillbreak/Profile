@@ -83,7 +83,7 @@ export const Navbar = () => {
               />
             </div>
             <span
-              className={`${quentine.className} text-primary-foreground text-xl sm:text-base`}
+              className={`${quentine.className} text-primary-foreground text-base sm:text-lg max-w-[58vw] sm:max-w-none truncate`}
             >
               {selfData.name}
             </span>
@@ -96,7 +96,7 @@ export const Navbar = () => {
               className="border-primary/30 hover:border-primary hover:bg-primary/10 transition-all duration-200"
             >
               {isResumePage ? (
-                <a href="/docs/Aarab_Nishchal_Resume.pdf" download="Aarab_Nishchal_Resume.pdf">
+                <a href="/docs/Aarab_Nishchal_Resume.pdf" download="resume.pdf">
                   Download Resume
                 </a>
               ) : (
@@ -142,7 +142,7 @@ export const Navbar = () => {
                 {isResumePage ? (
                   <a
                     href="/docs/Aarab_Nishchal_Resume.pdf"
-                    download="Aarab_Nishchal_Resume.pdf"
+                    download="resume.pdf"
                     onClick={() => setIsMenuOpen(false)}
                     className="flex items-center justify-center"
                   >
