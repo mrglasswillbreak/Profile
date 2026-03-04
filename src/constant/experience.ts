@@ -1,30 +1,30 @@
 export const experienceData = [
   {
-    role: "Software Development Engineer Intern",
-    year: "Sep'24 - Present",
+    role: "Full Stack JavaScript course enrollment",
+    year: "Sep'25 - Present",
     description: [
-      "Optimized the platforms code execution engine by analyzing backend bottlenecks in 300+ algorithmic problems; refactored C++/Java logic to reduce average runtime latency by 15%.",
-      "Architected internal automation pipelines to validate problem constraints and test cases, ensuring 99.9% uptime for the problem statement delivery API during high-traffic hackathons.",
-      "Engineered comprehensive test suites for technical assessments, achieving 100% code coverage on edge cases to eliminate false positives in candidate grading."
+      "Developed various interactive and responsive web projects and applications, including this portfolio, a multi-platform drawing and sketching app, and a fully featured rock paper scissors app.",
+      "Learnt and developed a deep engineering mindset and problem-solving skills, carefully breaking down complex tasks and projects into smaller bite-sized ones before implementation.",
+      "Developed a full professional level understanding of Git workflows  and GitHub for code version control and collaboration, working on open source projects and building real-world experience."
     ],
 
-    company: "UnStop",
+    company: "The Odin Project",
     technologies: [
-      "Inhouse CMS",
-      "Artificial Intelligence",
+      "Git & Github",
+      "Node.js & React",
       "Code Interpretation",
     ],
-    url: "https://www.unstop.com/",
+    url: "https://www.theodinproject.com/",
   },
   {
     role: "Graphic Designer",
-    year: "Nov'23 - Dec'24",
+    year: "Nov'18 - Dec'20",
     description: [
-      "Designed scrollstopping visuals for social media and event promotions, making sure even the algorithm couldn’t ignore our team’s drip.",
+      "Designed complex layered vector graphics and images for events and social media, making sure even the algorithm couldn’t ignore our team’s drip.",
       "Turned vague design briefs into crisp creative assets—because 'make it pop' is not a real instruction but I delivered anyway.",
-      "Blended creativity with speed using Illustrator, Canva, and DaVinci Resolve to bring aesthetic harmony across posters, reels, and everything in between—basically the design department’s Swiss Army knife.",
+      "Blended creativity with speed using Illustrator, Canva, and Figma to bring aesthetic harmony across posters, reels, banners and everything in between—basically the design department’s Jack of all Trades.",
     ],
-    company: "Team Negative (Team under KIIT-DU Fashion Society)",
-    technologies: ["Adobe Illustrator", "Canva", "daVinci Resolve"],
+    company: "Adebayo Tech Cafe",
+    technologies: ["Adobe Illustrator", "Canva", "Figma", "Corel Drawl"],
   },
 ];
